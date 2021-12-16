@@ -13,3 +13,6 @@ NOTE: Each visit in a unique sessionID; and if they are not recorded browsing se
 Use starting code provided below:
 
 CREATE FUNCTION udsf_numVisitsInYear(
+
+### Entity Relationship Diagram
+![ERD](https://user-images.githubusercontent.com/68878624/146376097-42c98d76-d07a-4a42-b0c3-4cb3da3df0b9.png)
