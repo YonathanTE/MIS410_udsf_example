@@ -1,4 +1,4 @@
-# MIS410udsf_example
+# MIS410_udsf_example
 
 The user-defined scalar function has been created with SQL Server 2014. The following details were the guidelines asked the students to complete.
 
