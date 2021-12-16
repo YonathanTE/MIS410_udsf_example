@@ -11,4 +11,5 @@ Returns total number of visits in the browseYear by ID corresponding to userID
 
 NOTE: Each visit in a unique sessionID; and if there are not recorded browsing session in the browseYear - the returned value should be zero.
 Use starting code provided below:
+
 CREATE FUNCTION udsf_numVisitsInYear(
